@@ -1,0 +1,20 @@
+modules:
+  scheduledTrigger:
+    - key: lame-time-still-open
+      function: main
+      interval: fiveMinute  # Recalculates every five minutes
+  function:
+    - key: main
+      handler: index.run
+
+app:
+  runtime:
+    name: nodejs24.x
+    memoryMB: 256
+    architecture: arm64
+  id: ari:cloud:ecosystem::app/528bb73b-c67c-4c07-8cbf-13e212f439ba
+
+permissions:
+  scopes:
+    - 'read:jira-work'
+    - 'write:jira-work'
