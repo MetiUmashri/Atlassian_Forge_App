@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Forge Hello World
 
 This project contains a Forge app written in Javascript that logs ```Hello World!``` when an issue is created in Jira.
@@ -35,3 +36,7 @@ forge tunnel
 ## Support
 
 See [Get help](https://developer.atlassian.com/platform/forge/get-help/) for how to get help and provide feedback.
+=======
+# Atlassian_Forge_App
+This app is designed to check how many days the jira ticket remained in the "Open" status.
+>>>>>>> f80482684e2b274aef7f8b8ce09feb0cca2ec213
