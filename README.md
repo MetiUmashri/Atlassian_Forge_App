@@ -33,6 +33,10 @@ forge tunnel
 - Use the `forge install` command when you want to install the app on a new site.
 - Once the app is installed on a site, the site picks up the new app changes you deploy without needing to rerun the install command.
 
+### Features to Implement
+- If the ticket workflow status is in the "In Progress" & the Severity if "High" for more than 2 days - an email is sent to the scrum master of the project including the assignee
+- Post completion of the Scrum provide an end-to-end report of the issues being addressed with necessary details of the issues being addressed (open to more suggestions for this feature)
+
 ## Support
 
 See [Get help](https://developer.atlassian.com/platform/forge/get-help/) for how to get help and provide feedback.
