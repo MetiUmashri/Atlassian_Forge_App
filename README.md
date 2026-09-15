@@ -49,6 +49,7 @@ Find below the app custom app:
 <img width="959" height="505" alt="image" src="https://github.com/user-attachments/assets/489270c5-47e2-47bc-b4ba-e976df04b73d" />
 <img width="957" height="504" alt="image" src="https://github.com/user-attachments/assets/a0a4ef44-e542-4858-aa9d-0d2dedb8ede5" />
 <img width="959" height="506" alt="image" src="https://github.com/user-attachments/assets/ee77e024-0ff3-401e-9e1f-29aeefeeb947" />
+<img width="959" height="499" alt="image" src="https://github.com/user-attachments/assets/d55cfb90-b924-42e1-8d03-c55d62f2a2c3" />
 
 
 
