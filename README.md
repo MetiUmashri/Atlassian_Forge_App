@@ -44,3 +44,16 @@ See [Get help](https://developer.atlassian.com/platform/forge/get-help/) for how
 # Atlassian_Forge_App
 This app is designed to check how many days the jira ticket remained in the "Open" status.
 >>>>>>> f80482684e2b274aef7f8b8ce09feb0cca2ec213
+
+Find below the app custom app:
+<img width="959" height="505" alt="image" src="https://github.com/user-attachments/assets/489270c5-47e2-47bc-b4ba-e976df04b73d" />
+<img width="957" height="504" alt="image" src="https://github.com/user-attachments/assets/a0a4ef44-e542-4858-aa9d-0d2dedb8ede5" />
+<img width="959" height="506" alt="image" src="https://github.com/user-attachments/assets/ee77e024-0ff3-401e-9e1f-29aeefeeb947" />
+
+
+
+
+
+
+
+
